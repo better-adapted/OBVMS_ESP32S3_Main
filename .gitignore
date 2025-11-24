@@ -1,0 +1,11 @@
+*.o
+*.log
+*.old
+*.map
+*.elf
+/build
+/managed_components
+/.cache
+/.clangd
+/.vs
+/.visualgdb

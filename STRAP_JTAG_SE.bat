@@ -1,0 +1,1 @@
+espefuse --port COM4 burn_efuse STRAP_JTAG_SEL 1
