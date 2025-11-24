@@ -1,0 +1,15 @@
+[submodule "components/Adafruit_NeoPixel"]
+	path = components/Adafruit_NeoPixel
+	url = https://github.com/better-adapted/Adafruit_NeoPixel.git
+[submodule "components/CLI_Arduino"]
+	path = components/CLI_Arduino
+	url = https://github.com/better-adapted/CLI_Arduino.git
+[submodule "components/ESP32S3_Common_Libs"]
+	path = components/ESP32S3_Common_Libs
+	url = https://github.com/better-adapted/ESP32S3_Common_Libs
+[submodule "components/arduino"]
+	path = components/arduino
+	url = https://github.com/espressif/arduino-esp32.git
+[submodule "components/ESP32S3_App"]
+	path = components/ESP32S3_App
+	url = https://github.com/better-adapted/ESP32S3_App
