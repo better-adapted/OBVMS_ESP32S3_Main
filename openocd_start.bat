@@ -1,0 +1,1 @@
+C:\Users\adam_\.espressif\tools\openocd-esp32\v0.12.0-esp32-20250707\openocd-esp32\bin/openocd.exe -f interface\esp_usb_jtag.cfg -f board\esp32s3-builtin.cfg
